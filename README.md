@@ -79,7 +79,7 @@ Open the Jupyter Notebook then run each cell in order to:
 
 ## 📄 Report
 
-A full research report following the IEEE template (with abstract, literature review, methodology, and results) is available in the course submission portal.
+A full research report following the IEEE template (with abstract, literature review, methodology, and results) is available in this repository.
 
 ---
 
