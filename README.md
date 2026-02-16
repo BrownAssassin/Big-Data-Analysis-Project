@@ -4,7 +4,7 @@ This repository contains the code and experiments for the research project:
 
 > **"Evaluating Domain Transfer for Martian Terrain Traversability Classification Using Terrestrial Imagery"**
 
-Conducted as part of the **Big Data Analysis and Project** course in the Master of Artificial Intelligence and Machine Learning program at the University of Adelaide.
+Conducted as part of the **COMP SCI 7209: Big Data Analysis and Project** course in the Master of Artificial Intelligence and Machine Learning program at the University of Adelaide.
 
 ## 🚀 Project Overview
 
@@ -93,6 +93,7 @@ This repository is for academic and educational use. For dataset usage, please r
 
 **Mrinank Sivakumar**
 
-*Master of AI and Machine Learning, University of Adelaide*
+*Master of Artificial Intelligence and Machine Learning, University of Adelaide*\
+*Bachelor of Information Technology (Honours), University of Ontario Institute of Technology*
 
-[mrinank.sivakumar@student.adelaide.edu.au](mailto:mrinank.sivakumar@student.adelaide.edu.au)
+[mrinank.sivakumar@gmail.com](mailto:mrinank.sivakumar@gmail.com)
